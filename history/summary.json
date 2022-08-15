@@ -4,7 +4,7 @@
     "url": "http://workoutplanner.herokuapp.com/",
     "icon": "https://favicons.githubusercontent.com/workoutplanner.herokuapp.com",
     "slug": "workout-planner",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 117,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2022-08-15": 0,
       "2022-02-24": 27
     }
   }
