@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/workoutplanner.herokuapp.com.ico",
     "slug": "workout-planner",
     "status": "down",
-    "uptime": "61.07%",
+    "uptime": "61.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 103,
-    "timeDay": 97,
-    "timeWeek": 117,
+    "timeDay": 172,
+    "timeWeek": 134,
     "timeMonth": 91,
-    "timeYear": 83,
+    "timeYear": 84,
     "dailyMinutesDown": {
-      "2024-02-20": 38,
+      "2024-02-21": 39,
+      "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
@@ -379,8 +380,7 @@
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
-      "2023-02-22": 1440,
-      "2023-02-21": 1440
+      "2023-02-22": 1440
     }
   }
 ]
